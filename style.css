@@ -1,0 +1,23 @@
+.dm-serif-text-regular-italic {
+        font-family: "DM Serif Text", serif;
+        font-weight: 400;
+        font-style: italic;
+ }
+body {
+    background: linear-gradient(to bottom, pink, rgb(243, 219, 223), white);
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-size: medium;
+    
+}
+ a {
+    color:black;  
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+  }
+  
